@@ -28,7 +28,7 @@ span{
 /* Banner ------------------------------ */
 .banner-con {
     /* max-width: 1600px; */
-    background-image: url(./images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
     background-size: cover;
     height: 800px;
     width: auto;
@@ -171,7 +171,7 @@ span{
     margin-top: 130px;
     margin-bottom: 130px;
     max-width: 1200px;
-    background-image: url(./images/watch.png);
+    background-image: url(../images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -180,7 +180,7 @@ span{
 }
 
 .ad-img {
-    background-image: url(./images/gradient1.png);
+    background-image: url(../images/gradient1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
