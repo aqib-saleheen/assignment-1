@@ -53,6 +53,7 @@ span{
     font-size: 16px;
     color: #000000;
 }
+
 /* About --------------------------*/
 .about-con {
     max-width: 900px;
@@ -62,6 +63,7 @@ span{
     padding: 130px 150px;
     text-align: center;
 }
+
 .about-me {
     margin-top: 50px;
     font-weight: 400;
@@ -200,7 +202,6 @@ span{
 
 /* Footer ---------------------------------- */
 .footer-con {
-    /* max-width: 1600px; */
     background-color: #000000;
     height: 577px;
 }
@@ -254,3 +255,5 @@ span{
     padding: 10px 20px;
     margin-bottom: 30px;
 }
+
+/* End --------------------------- */
