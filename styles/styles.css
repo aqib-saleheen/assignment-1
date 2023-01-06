@@ -1,0 +1,81 @@
+* {
+    margin: 0 auto;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    padding: 20px 25px;
+    background: #ffffff;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+/* Banner ------------------------------ */
+.banner-con {
+    max-width: 1600px;
+    background-image: url(/images/banner/banner3.png);
+    background-size: cover;
+    height: 800px;
+    width: auto;
+    text-align: right;
+    padding-right: 230px;
+}
+
+.banner-con h1 {
+    padding-top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+}
+
+.banner-con p {
+    padding: 25px 0;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+/* My Failure ------------------------------ */
+
+.failure-con{
+    margin-top: 130px;
+    display: flex;
+    align-content: space-around;
+    max-width: 1072px;
+}
+
+.failure-item-1 {
+    width: 569px;
+    height: 723px;
+}
+.failure-item-2 {
+    margin-top: 300px;
+    width: 416px;
+    height: 723px;
+}
+.failure-item-2 p {
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.failure-item-2 ul{
+    margin-top: 18px;  
+}
+.failure-item-2 ul li{
+    margin-top: 8px;  
+}
+
+/* My Plan ------------------------------ */
+
