@@ -27,8 +27,7 @@ span{
 
 /* Banner ------------------------------ */
 .banner-con {
-    /* max-width: 1600px; */
-    background-image: url(../images/banner/banner1.png);
+    background-image: url(./images/banner/banner1.png);
     background-size: cover;
     height: 800px;
     width: auto;
