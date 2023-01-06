@@ -48,34 +48,101 @@
 
 /* My Failure ------------------------------ */
 
-.failure-con{
+.failure-con {
     margin-top: 130px;
     display: flex;
     align-content: space-around;
     max-width: 1072px;
+    max-height: 730px;
 }
 
 .failure-item-1 {
     width: 569px;
     height: 723px;
 }
+
 .failure-item-2 {
     margin-top: 300px;
     width: 416px;
     height: 723px;
 }
+
 .failure-item-2 p {
     margin-top: 24px;
     font-weight: 400;
     font-size: 16px;
     color: #444343;
 }
-.failure-item-2 ul{
-    margin-top: 18px;  
+
+.failure-item-2 ul {
+    margin-top: 18px;
 }
-.failure-item-2 ul li{
-    margin-top: 8px;  
+
+.failure-item-2 ul li {
+    margin-top: 8px;
 }
 
 /* My Plan ------------------------------ */
 
+.plans-con {
+    margin-top: 130px;
+    max-width: 1040px;
+    text-align: center;
+}
+
+.plans-item {
+    display: flex;
+    gap: 40px;
+}
+
+.plans-con h2 {
+    margin-bottom: 50px;
+}
+
+.plans-con h3 {
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.plans-con p {
+    margin-top: 16px;
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+/* Advertise ------------------------------ */
+
+.ad-con {
+    margin-top: 124px;
+    max-width: 1200px;
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 1140px;
+    text-align: left;
+    
+}
+.ad-img {
+    background-image: url(/images/gradient1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 1140px;
+}
+
+.ad-con h2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #ffffff;
+    padding-top: 60px;
+    padding-left: 64px;
+}
+
+.ad-con button {
+    margin-top: 24px;
+    margin-left: 64px;
+}
