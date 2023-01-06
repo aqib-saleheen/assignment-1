@@ -27,7 +27,7 @@ span{
 
 /* Banner ------------------------------ */
 .banner-con {
-    background-image: url(../images/banner/banner1.png);
+    background-image: url(../images/banner/banner-1.png);
     background-size: cover;
     height: 800px;
     width: auto;
@@ -179,11 +179,12 @@ span{
 }
 
 .ad-img {
-    background-image: url(../images/gradient1.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    border-radius: 5px;
     height: 300px;
     width: 1140px;
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(0, 132, 255, 0.882));
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .ad-con h2 {
